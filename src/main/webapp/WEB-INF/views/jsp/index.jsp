@@ -39,7 +39,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Wissen infotech, AWS Training by Balaji, AWS-Batch-11, Bengaluru, Karnataka.</h2>
+			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir, AWS-COE-Batch-11, Bengaluru, Karnataka.</h2>
 			<h3>Contact @ +91-088888 88888</h3>
 		</div>	
 	</div>
