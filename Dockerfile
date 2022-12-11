@@ -1,3 +1,3 @@
-FROM tomcat:11.0.0-jre17
+FROM tomcat:8.0.20-jre8
 # Dummy text to test 
 COPY target/aws-coe*.war /usr/local/tomcat/webapps/aws-coe.war
