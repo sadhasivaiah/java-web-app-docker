@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + MVC</title>
+<title>WISSEN INFOTECH</title>
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
 <link href="${bootstrapCss}" rel="stylesheet" />
@@ -40,7 +40,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir,AWS-COE,Batch-11,white field,bangalore,Karnataka.</h2>
-			<h3>Contact @ +91-7569660030</h3>
+			<h3>Contact @ +91-088888 88888</h3>
 		</div>	
 	</div>
 
