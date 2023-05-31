@@ -39,7 +39,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir,hyderabad,telangana,cybertowers.</h2>
+			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir,Bangalore.</h2>
 			<h3>Contact @ +91-7569660030</h3>
 		</div>	
 	</div>
