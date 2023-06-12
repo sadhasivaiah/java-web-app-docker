@@ -14,7 +14,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Wissen Infotech 2022</p>
+		<p>&copy; Wissen Infotech 2023</p>
 	</footer>
 </div>
 
