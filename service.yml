@@ -16,4 +16,4 @@ spec:
   selector:
     app: javawebapp
     version: "BUILD_NUMBER"
-    hiii
+    hiiiii
