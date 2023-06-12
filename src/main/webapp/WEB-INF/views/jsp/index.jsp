@@ -40,7 +40,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir,Bangalore,INDIA.</h2>
-			<h3>Contact @ +91-7569660030</h3>
+			<h3>Contact @ +91-masthanmla</h3>
 		</div>	
 	</div>
 
