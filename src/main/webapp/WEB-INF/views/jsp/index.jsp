@@ -7,7 +7,7 @@
 
 	
 			<h2>Welcome To Wissen infotech, AWS Training by balaji,hyd,INDIA.</h2>
-			<h3>Contact @ +91-999999999</h3>
+			<h3>Contact @ +91-999</h3>
 		</div>	
 	</div>
 
