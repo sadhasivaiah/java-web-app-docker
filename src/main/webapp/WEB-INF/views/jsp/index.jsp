@@ -6,8 +6,8 @@ bad<html lang="en">
 
 
 	
-			<h2>Welcome To Wissen infotech, AWS Training by balaji,bangalore,hyderabad,mumbai.</h2>
-			<h3>Contact @ +91-888888888</h3>
+			<h2>Welcome To Wissen infotech, AWS Training by balaji,mumbai.</h2>
+			<h3>Contact @ +91-000000</h3>
 		</div>	
 	</div>
 
