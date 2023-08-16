@@ -31,4 +31,4 @@ spec:
   selector:
     app: tomcat
   type: NodePort
-
+  nodePort: 30007
