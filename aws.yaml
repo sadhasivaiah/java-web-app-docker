@@ -31,3 +31,4 @@ spec:
   selector:
     app: tomcat
   type: NodePort
+  nodeport: 32400
