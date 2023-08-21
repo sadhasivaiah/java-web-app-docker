@@ -7,4 +7,4 @@ RUN tar -xvzf apache-tomcat-9.0.78.tar.gz
 EXPOSE 8080
 CMD ["/apache-tomcat-9.0.78/bin/catalina.sh", "run"]
 # Dummy text to test 
-COPY target/aws-coe*.war /apache-tomcat-9.0.78/webapps/aws-coe.war
+COPY target/aws-coe*.war  /apache-tomcat-9.0.78/webapps/aws-coe.war
